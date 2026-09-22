@@ -1,0 +1,26 @@
+[
+  {
+    "title": "GitHub",
+    "url": "https://github.com",
+    "category": "Development",
+    "description": "Code, pull requests, and collaboration for teams and individuals."
+  },
+  {
+    "title": "Google Drive",
+    "url": "https://drive.google.com",
+    "category": "Workspace",
+    "description": "Store, share, and organize files and documents."
+  },
+  {
+    "title": "Notion",
+    "url": "https://www.notion.so",
+    "category": "Productivity",
+    "description": "Project planning, notes, and internal documentation in one place."
+  },
+  {
+    "title": "Figma",
+    "url": "https://www.figma.com",
+    "category": "Design",
+    "description": "Design prototypes, UI systems, and product mockups."
+  }
+]
